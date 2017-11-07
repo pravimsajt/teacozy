@@ -53,6 +53,7 @@ font-family: helvetica;
   flex-wrap: wrap;
   width: 1000px;
   color: white;
+  font-family: Helvetica;
   text-align: center;
   justify-content: space-between;
   margin: auto;
@@ -123,6 +124,7 @@ font-family: helvetica;
 .locationpic h2 {
   color: seashell;
   font-size: 42px;
+  font-family: helvetica;
   font-weight: bold;
   margin-bottom: 15px;
 }
